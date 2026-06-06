@@ -1,0 +1,6 @@
+{
+  "name": "Dr-Aspirant",
+  "description": "A comprehensive prep suite for NEET and JEE aspirants featuring an interactive 3D Periodic Table, custom NEET/JEE mock tests, quick formula sheets, unit converters, and an integrated AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
